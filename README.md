@@ -5,6 +5,7 @@
 - [Articles](https://github.com/alex1the1great/OpenBlog/tree/master/articles)
 - [Books](https://github.com/alex1the1great/OpenBlog/tree/master/books)
     - [Data Structures and Algorithms](https://github.com/alex1the1great/OpenBlog/tree/master/books/DSA)
+    - [Git](https://github.com/alex1the1great/OpenBlog/tree/master/books/Git)
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
