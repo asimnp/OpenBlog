@@ -11,7 +11,8 @@
 > - Instead of making multiple simple project, build a big project.
 > - If you keep on adding new features to a simple project, then it will start to grow to a big project.
 ### 5. Habit of Figuring out to do stuff.
-> - How can I add this features to my project?
-> - Learning from an article.
-> - Watching videos.
-> - Asking for help like stackoverflow.
+- How can I add this features to my project?
+   - Read documentaion.
+   - Learning from an article.
+   - Watching videos.
+   - Asking for help like stackoverflow.
